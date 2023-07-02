@@ -1,7 +1,7 @@
 {
   "name": "edge40-notifier",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get notified when Moto Edge 40 is in stock on Flipkart or Motorola India store",
   "main": "index.js",
   "type": "module",
   "scripts": {
