@@ -1,0 +1,19 @@
+{
+  "name": "edge40-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Tuhin Kanti Pal <me@thetuhin.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.8",
+    "node-notifier": "^10.0.1",
+    "open": "^9.1.0"
+  }
+}
